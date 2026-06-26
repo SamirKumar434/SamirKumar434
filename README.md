@@ -1,5 +1,5 @@
-# 💫 About Me:
-🧠 About Me<br>🚀 Passionate about building scalable web applications and real-world products<br>💻 MERN Stack & Next.js enthusiast with a strong focus on full-stack development<br>⚙️ Consistently improving my DSA and problem-solving skills through daily practice<br>📚 Exploring the intersection of technology, education, and content creation<br>🤝 Open to collaborations, internships, and exciting learning opportunities
+#  About Me:
+ About Me<br>-> Passionate about building scalable web applications and real-world products<br>-> MERN Stack & Next.js enthusiast with a strong focus on full-stack development<br>-> Consistently improving my DSA and problem-solving skills through daily practice<br>-> Exploring the intersection of technology, education, and content creation<br>-> Open to collaborations, internships, and exciting learning opportunities
 
 
 ## 🌐 Socials:
